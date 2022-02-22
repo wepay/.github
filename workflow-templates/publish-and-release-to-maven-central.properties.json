@@ -1,0 +1,11 @@
+{
+    "name": "Publish To Maven Central via Sonatype Workflow",
+    "description": "Publish to Sonatype and optionally release to Maven Central. Workflow for Java projects build with Gradle. Workflow is triggered if merged commit to master branch includes the prhase publish or publish and release",
+    "iconName": "publish-workflow-icon",
+    "categories": [
+        "Java"
+    ],
+    "filePatterns": [
+        "build.gradle$"
+    ]
+}
