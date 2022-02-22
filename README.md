@@ -1,4 +1,4 @@
-#.github
+# .github
 
 A repository for organization-wide community health files
 
